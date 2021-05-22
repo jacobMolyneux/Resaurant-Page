@@ -1,0 +1,33 @@
+
+#title{
+    border-bottom: 1px solid black;
+    height: 75px;
+    align-content: center;
+}
+
+ul{
+    display: flex;
+
+}
+li{
+    display: inline;
+    padding: 10px;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    margin: 3px;
+
+}
+li:hover{
+    box-shadow: 3px 3px;
+}
+#storeImage{
+    height:400px;
+    width:80%;
+    border-radius: 10px;
+}
+.greetingText{
+    font-size:30px;
+    font-family: Verdana;
+}
+
